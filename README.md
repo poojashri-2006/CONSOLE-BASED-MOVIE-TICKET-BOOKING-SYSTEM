@@ -1,2 +1,2 @@
 # CONSOLE-BASED-MOVIE-TICKET-BOOKING-SYSTEM
-Built a basic Java-based console application for movie ticket booking with seat management, booking, cancellation, and persistent data storage using OOP concepts.
+Console-Based Movie Ticket Booking System Using Java is a menu-driven Java application that allows users to view available movies, check seat availability, book movie tickets, cancel bookings, and view booking details. The system generates unique ticket IDs, manages seat allocation, stores booking records using Java Collections (HashMap and ArrayList), and provides an interactive command-line interface. The project demonstrates Object-Oriented Programming (OOP), data structures, user input handling, and basic ticket management functionality.
